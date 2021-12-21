@@ -1,4 +1,4 @@
-# Cara Pasang - MyDdos
+# Cara Guna - MyDdos
 ```
 $ pkg update && pkg upgrade
 $ pkg install python
