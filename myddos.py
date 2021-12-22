@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #penulis Braderlala
-#terima kasih K4NDAR
+
 import random
 import socket
 import threading
